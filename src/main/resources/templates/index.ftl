@@ -5,6 +5,7 @@
     <title>Spring Framework</title>
 </head>
 <body>
-    ${body}
+    ${walk}<br>
+    ${fly}
 </body>
 </html>
